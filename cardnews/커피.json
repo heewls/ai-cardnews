@@ -1,0 +1,76 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "type": "cover",
+      "title": "요즘 제일 핫한🔥",
+      "subtitle": "한국 커피 트렌드 4가지!",
+      "bgGradient": [
+        "#A0522D",
+        "#D2B48C"
+      ],
+      "textColor": "#ffffff",
+      "svgIcon": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><rect x='30' y='40' width='40' height='45' rx='8' ry='8' fill='#ffffff' opacity='0.9'/><path d='M70 50 Q75 55 75 65 Q75 75 70 80' stroke='#ffffff' stroke-width='3' fill='none' opacity='0.9'/><path d='M38 35 C42 25, 58 25, 62 35' stroke='#ffffff' stroke-width='4' fill='none' opacity='0.8'/><circle cx='45' cy='30' r='3' fill='#ffffff' opacity='0.7'/><circle cx='55' cy='32' r='3' fill='#ffffff' opacity='0.7'/></svg>",
+      "tag": "#인생커피 #한국커피 #카페투어 #트렌드커피"
+    },
+    {
+      "id": 2,
+      "type": "content",
+      "title": "가성비X대용량! 국민 커피픽",
+      "items": [
+        {
+          "name": "메가리카노",
+          "desc": "짐승 용량! 시원함에 가성비까지 잡은 국민 아메리카노 🥤",
+          "emoji": "🥤"
+        },
+        {
+          "name": "스페니쉬 연유 라떼",
+          "desc": "달콤한 연유와 부드러운 우유의 환상 조합! 당 충전 끝판왕 🥛",
+          "emoji": "🥛"
+        }
+      ],
+      "bgGradient": [
+        "#4B0082",
+        "#DDA0DD"
+      ],
+      "textColor": "#ffffff",
+      "svgDecor": "<svg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'><path d='M50 30 C70 10, 130 10, 150 30 C130 50, 70 50, 50 30 Z' fill='#ffffff' opacity='0.2'/><path d='M30 100 C50 80, 150 80, 170 100 C150 120, 50 120, 30 100 Z' fill='#ffffff' opacity='0.15'/><path d='M80 160 C100 140, 160 140, 180 160 C160 180, 100 180, 80 160 Z' fill='#ffffff' opacity='0.25'/><circle cx='100' cy='50' r='15' fill='#ffffff' opacity='0.1'/><circle cx='50' cy='150' r='10' fill='#ffffff' opacity='0.15'/></svg>"
+    },
+    {
+      "id": 3,
+      "type": "content",
+      "title": "특별함이 필요해? 시그니처 메뉴!",
+      "items": [
+        {
+          "name": "버터크림라떼",
+          "desc": "고소한 버터와 진한 크림이 올라간 시그니처 라떼. 중독성 갑! 🧈",
+          "emoji": "🧈"
+        },
+        {
+          "name": "돌체라떼",
+          "desc": "부드러운 우유와 연유의 달콤함, 깔끔한 커피의 조화. 스테디셀러의 힘! ✨",
+          "emoji": "✨"
+        }
+      ],
+      "bgGradient": [
+        "#8B4513",
+        "#F5DEB3"
+      ],
+      "textColor": "#ffffff",
+      "svgDecor": "<svg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'><path d='M20 50 C80 20, 120 80, 180 50' stroke='#ffffff' stroke-width='3' fill='none' opacity='0.3'/><path d='M30 100 C70 70, 130 130, 170 100' stroke='#ffffff' stroke-width='3' fill='none' opacity='0.25'/><path d='M40 150 C90 120, 110 180, 160 150' stroke='#ffffff' stroke-width='3' fill='none' opacity='0.35'/><circle cx='150' cy='40' r='12' fill='#ffffff' opacity='0.1'/><circle cx='50' cy='160' r='10' fill='#ffffff' opacity='0.15'/></svg>"
+    },
+    {
+      "id": 4,
+      "type": "outro",
+      "title": "당신의 최애 커피는 무엇인가요?",
+      "cta": "오늘 바로 나만의 인생 커피를 경험해보세요! 💖",
+      "bgGradient": [
+        "#FF7F50",
+        "#FFD700"
+      ],
+      "textColor": "#ffffff",
+      "svgIcon": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><path d='M50 90 L20 60 C10 50, 10 30, 30 20 C50 10, 70 10, 80 20 C90 30, 90 50, 70 60 Z' fill='#ffffff'/><circle cx='50' cy='45' r='8' fill='#FF7F50'/><path d='M46 40 C48 37, 52 37, 54 40 C52 43, 48 43, 46 40 Z' fill='#FF7F50'/></svg>",
+      "tag": "#커피탐방 #나만의커피 #커피추천 #카페스타그램"
+    }
+  ]
+}
