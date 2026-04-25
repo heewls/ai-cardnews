@@ -1,0 +1,76 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "type": "cover",
+      "title": "요즘 인싸들은 다 마신다는 ☕",
+      "subtitle": "한국에서 핫한 커피 트렌드 4가지!",
+      "bgGradient": [
+        "#FFDDC1",
+        "#FFAD8F"
+      ],
+      "textColor": "#ffffff",
+      "svgIcon": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='55' r='30' fill='#ffffff' opacity='0.9'/><path d='M35 45 L65 45 L65 70 A15 15 0 0 1 50 85 A15 15 0 0 1 35 70 Z' fill='#964B00'/><path d='M35 45 H65 A5 5 0 0 0 70 40 V35 H30 V40 A5 5 0 0 0 35 45 Z' fill='#8B4513'/><path d='M30 40 C35 30, 45 25, 50 20 C55 25, 65 30, 70 40' stroke='#ffffff' stroke-width='2' fill='none'/><path d='M35 35 C40 28, 48 23, 50 18' stroke='#ffffff' stroke-width='2' fill='none'/><path d='M65 35 C60 28, 52 23, 50 18' stroke='#ffffff' stroke-width='2' fill='none'/></svg>",
+      "tag": "#인싸커피 #커피트렌드 #한국카페 #핫플레이스"
+    },
+    {
+      "id": 2,
+      "type": "content",
+      "title": "첫 번째, 달콤 쌉쌀한 매력 ✨",
+      "items": [
+        {
+          "name": "아인슈페너",
+          "desc": "진한 커피 위에 달콤한 크림이 가득! 비주얼까지 완벽한 인생샷 커피.",
+          "emoji": "☕️☁️"
+        },
+        {
+          "name": "달고나 커피",
+          "desc": "쫀득한 달고나 크림이 올라간 추억의 맛! 홈카페 인기 메뉴로 등극.",
+          "emoji": "🍯☕️"
+        }
+      ],
+      "bgGradient": [
+        "#E0F2F7",
+        "#B2EBF2"
+      ],
+      "textColor": "#212121",
+      "svgDecor": "<svg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'><circle cx='30' cy='30' r='15' fill='#AED6F1' opacity='0.7'/><circle cx='170' cy='50' r='20' fill='#A2D9CE' opacity='0.7'/><rect x='10' y='120' width='40' height='40' rx='10' fill='#FADBD8' opacity='0.7'/><path d='M50 150 Q100 180, 150 150 T200 120' stroke='#D5F5E3' stroke-width='5' fill='none'/></svg>"
+    },
+    {
+      "id": 3,
+      "type": "content",
+      "title": "두 번째, 깊고 시원한 맛 💧",
+      "items": [
+        {
+          "name": "콜드브루",
+          "desc": "차갑게 오랜 시간 추출해 부드럽고 깔끔한 풍미가 특징인 스테디셀러.",
+          "emoji": "🧊☕️"
+        },
+        {
+          "name": "흑당 라떼",
+          "desc": "달콤한 흑당 시럽과 우유, 커피의 조화! 중독성 강한 단짠 음료.",
+          "emoji": "⚫️🥛"
+        }
+      ],
+      "bgGradient": [
+        "#D7EEFF",
+        "#A9D9FF"
+      ],
+      "textColor": "#212121",
+      "svgDecor": "<svg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'><rect x='20' y='20' width='30' height='30' fill='#87CEEB' opacity='0.6'/><circle cx='160' cy='40' r='25' fill='#ADD8E6' opacity='0.6'/><path d='M0 100 L50 70 L100 100 L150 70 L200 100' stroke='#6495ED' stroke-width='4' fill='none'/><rect x='100' y='140' width='60' height='40' rx='15' fill='#B0E0E6' opacity='0.6'/></svg>"
+    },
+    {
+      "id": 4,
+      "type": "outro",
+      "title": "나만의 최애 커피는?",
+      "cta": "댓글로 공유하고 친구 태그하기! 👇",
+      "bgGradient": [
+        "#FFD700",
+        "#FFA500"
+      ],
+      "textColor": "#ffffff",
+      "svgIcon": "<svg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><path d='M50 20 C70 0, 90 20, 80 40 C70 60, 50 80, 50 90 C50 80, 30 60, 20 40 C10 20, 30 0, 50 20 Z' fill='#FF6347'/><circle cx='50' cy='50' r='15' fill='#8B4513'/><path d='M50 40 C55 35, 60 38, 60 45 C60 52, 55 55, 50 50 Z' fill='#D2B48C'/></svg>",
+      "tag": "#커피추천 #카페탐방 #오늘의커피 #커피스타그램"
+    }
+  ]
+}
